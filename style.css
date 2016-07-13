@@ -18,3 +18,17 @@ body {
 .list-item-ttl {
 	display: none;
 }
+
+.link {
+	text-decoration: none;
+	color: black;
+}
+
+.link:hover {
+	text-decoration: none;
+	color: black;
+}
+
+.list-label {
+	cursor: text;
+}
